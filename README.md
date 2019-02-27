@@ -4,4 +4,4 @@ This is a public copy of an in-progress concept for how the eligibility systems 
 
 [Sketch file](https://github.com/18F/eligibility-system-concept/blob/master/LICENSE.md/eligibility-system-concept.sketch.zip)
 
-See [License.md](license.md)
+See [License.md](https://github.com/18F/eligibility-system-concept/tree/master/LICENSE.md)
