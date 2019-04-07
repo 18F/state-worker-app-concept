@@ -45,11 +45,11 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 [**Exhibit C: Eligibility rules as a service**](#exhibit-c-eligibility-rules-as-a-service) - Recent work on codifying program policy into rules that can be accesses via web services has shown the feasibility of the approach.
 
-[Exhibit D: State Eligibility & Enrollment App](#exhibit-d-state-eligibility-enrollment-app) - A concept for what a tool that empowers eligibility workers to meet their mission could look like.
+[**Exhibit D: State Eligibility & Enrollment App**](#exhibit-d-state-eligibility--enrollment-app) - A concept for what a tool that empowers eligibility workers to meet their mission could look like.
 
-[Exhibit E: Models for building products](#exhibit-e-models-for-building-products) - A look at how we might shift our system development models to more efficient, less redundant, more successful methods of production.
+[**Exhibit E: Models for building products**](#exhibit-e-models-for-building-products) - A look at how we might shift our system development models to more efficient, less redundant, more successful methods of production.
 
-[Exhibit F: Design systems](#Exhibit-f-design-systems) - Government design systems have defined good practice for how public-facing systems should look and function.
+[**Exhibit F: Design systems**](#Exhibit-f-design-systems) - Government design systems have defined good practice for how public-facing systems should look and function.
 
 # Exhibit A: Client experiences
 
