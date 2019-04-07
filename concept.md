@@ -25,40 +25,49 @@ The way we approach technology for safety net programs forces states to dwell on
 
 That’s the whole point, after all.
 
-_* Please note: Big, grandiose concept pieces like this are always wrong. Or rather, they get a lot of things wrong. The point is not to get everything exactly right, but to move the conversation along and attract participation is rethinking broad assumptions and conventions._
+> _Please note: Big, grandiose concept pieces like this are always wrong. Or rather, they get a lot of things wrong. The point is not to get everything exactly right, but to move the conversation along and attract participation in rethinking broad assumptions and conventions._
 
-# An ecosystem of products
+### Inside this concept
 
-**The current organizing principles around eligibility systems needs to change. We should shift away from single state-based, monolithic (in both the architectural sense and the de facto monolithic nature of dependency on a single locked-in vendor), disconnected, does-everything state systems towards a more interconnected ecosystem of loosely-coupled products, each part with focused responsibility and capable ownership, connected with APIs, creating usable experiences designed around the needs of their users.**
+[**Exhibit A: An ecosystem of products**](#exhibit-a-an-ecosystem-of-products) - Recent work on the applicant experience has largely figured out what applying should look like.
+
+[**Exhibit B: Client experiences**](#exhibit-b-client-experiences) - Recent work on the applicant experience has largely figured out what applying should look like.
+
+[**Exhibit C: A general model for data collection**](#exhibit-c-a-general-model-for-data-collection) - A look at how we might receive data from clients, use it to find programs that can meet their needs, and make data reporting easy.
+
+[**Exhibit D: Eligibility rules as a service**](#exhibit-d-eligibility-rules-as-a-service) - Recent work on codifying program policy into rules that can be accesses via web services has shown the feasibility of the approach.
+
+[**Exhibit E: State Eligibility & Enrollment App**](#exhibit-e-state-eligibility--enrollment-app) - A concept for what a tool that empowers eligibility workers to meet their mission could look like.
+
+[**Exhibit F: Models for building products**](#exhibit-f-models-for-building-products) - A look at how we might shift our system development models to more efficient, less redundant, more successful methods of production.
+
+[**Exhibit G: Design systems**](#exhibit-g-design-systems) - Government design systems have defined good practice for how public-facing systems should look and function.
+
+# Exhibit A: An ecosystem of products
+
+### The current organizing principles around eligibility systems needs to change.
+
+We should shift away from single state-based, monolithic (in both the architectural sense and the de facto monolithic nature of dependency on a single locked-in vendor), disconnected, does-everything state systems towards a more interconnected ecosystem of loosely-coupled products, each part with focused responsibility and capable ownership, connected with APIs, creating usable experiences designed around the needs of their users.
 
 The diagram below can be used as a map to explore this piece. The ecosystem described below is in no way complete, but describes what’s covered in this piece.
 
 ![image](/concept_assets/2_diagram.png)
 
-**Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels | See Exhibits [ A: Client experiences](#exhibit-a-client-experiences), [F: Design systems](#exhibit-f), [E:](#exhibit-e)
+**Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels - See sections:
+> - [Exhibit A: Client experiences](#exhibit-a-client-experiences)
+- [Exhibit F: Design systems](#exhibit-f-design-systems)
+- [Exhibit E: Models for building products](#exhibit-e-models-for-building-products)
 
-#### Inside this concept
 
-[**Exhibit A: Client experiences**](#exhibit-a-client-experiences) - Recent work on the applicant experience has largely figured out what applying should look like.
 
-[**Exhibit B: A general model for data collection**](#exhibit-b-a-general-model-for-data-collection) - A look at how we might receive data from clients, use it to find programs that can meet their needs, and make data reporting easy.
+# Exhibit B: Client experiences
 
-[**Exhibit C: Eligibility rules as a service**](#exhibit-c-eligibility-rules-as-a-service) - Recent work on codifying program policy into rules that can be accesses via web services has shown the feasibility of the approach.
+# Exhibit C: A general model for data collection
 
-[**Exhibit D: State Eligibility & Enrollment App**](#exhibit-d-state-eligibility--enrollment-app) - A concept for what a tool that empowers eligibility workers to meet their mission could look like.
+# Exhibit D: Eligibility rules as a service
 
-[**Exhibit E: Models for building products**](#exhibit-e-models-for-building-products) - A look at how we might shift our system development models to more efficient, less redundant, more successful methods of production.
+# Exhibit E: State Eligibility & Enrollment App
 
-[**Exhibit F: Design systems**](#Exhibit-f-design-systems) - Government design systems have defined good practice for how public-facing systems should look and function.
+# Exhibit F: Models for building products
 
-# Exhibit A: Client experiences
-
-# Exhibit B: A general model for data collection
-
-# Exhibit C: Eligibility rules as a service
-
-# Exhibit D: State Eligibility & Enrollment App
-
-# Exhibit E: Models for building products
-
-# Exhibit F: Design systems
+# Exhibit G: Design systems
