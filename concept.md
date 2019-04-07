@@ -35,15 +35,15 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 ![image](/concept_assets/2_diagram.png)
 
-**Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels | See Exhibtis [ A: Client experiences](#exhibita), [F: Design systems](#exhibitf), [E:](#exhibite)
+**Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels | See Exhibits [ A: Client experiences](#exhibit-a-client-experiences), [F: Design systems](#exhibit-f), [E:](#exhibit-e)
 
 #### Inside this concept
 
-[**Exhibit A: Client experiences**](#exhibit-a) - Recent work on the applicant experience has largely figured out what applying should look like.
+[**Exhibit A: Client experiences**](#exhibit-a-client-experiences) - Recent work on the applicant experience has largely figured out what applying should look like.
 
 [**Exhibit B: A general model for data collection**](#exhibitb) - A look at how we might receive data from clients, use it to find programs that can meet their needs, and make data reporting easy.
 
 [**Exhibit C: Eligibility rules
 as a service**](#exhibitc) - Recent work on codifying program policy into rules that can be accesses via web services has shown the feasibility of the approach.
 
-# exhibit a
+# Exhibit A: Client experiences
