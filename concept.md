@@ -55,8 +55,8 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 **Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels - See sections:
 > - [Exhibit A: Client experiences](#exhibit-a-client-experiences)
-- [Exhibit F: Design systems](#exhibit-f-design-systems)
-- [Exhibit E: Models for building products](#exhibit-e-models-for-building-products)
+> - [Exhibit F: Design systems](#exhibit-f-design-systems)
+> - [Exhibit E: Models for building products](#exhibit-e-models-for-building-products)
 
 
 
