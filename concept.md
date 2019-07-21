@@ -73,7 +73,7 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 The rules, requirements, and actions people need to take to qualify and receive benefits from public assistance programs are inherently complicated. Improving the experiences people have as they interface with these programs is also a very complex undertaking. The client experience should be thought of as a number of constituent parts that can be addressed separately as part of an incremental improvement strategy.
 
-### Design research
+## Design research
 
 Research into the experiences people have before, during, and after applying, receiving, and using benefits helps us understand how we should design the systems they will interact with. This research should be ongoing, but we also need to utilize research that has already been conducted. There has already been quite a bit of thoughtful design research that provides great insight and is available today. While not nearly comprehensive, these reports provide a great jumping-off point.
 
@@ -108,6 +108,22 @@ Following a similar approach to the USDS/CMS prototype described to the left, th
 [**View the Michigan repo**](bit.ly/2G5nEre)
 
 ![screenshots of Code for America application prototype](/concept_assets/b_cfa_getcalfresh.png)
+
+## Design systems
+
+Design systems are pre-built libraries of styles and interaction patterns that allow teams to inherit good decisions from other teams who have focused on developing usable, accessible, mobile-first front-end interfaces. By reusing these decisions, teams can avoid duplicative work and instead focus on their product needs.
+
+### U.S. Web Design System
+
+The U.S. Web Design System is a design system built for the federal government backed by user research. The USWDS provides a variety of patterns appropriate for customer-facing applications. As the USWDS website states, “It’s counterproductive and wasteful to recreate basic components and patterns for every new government website...Enable teams to focus on the their users and their mission, and less on reinventing existing solutions. Do less to do more.”
+
+![Sample screenshots of U.S. Wed Design System](/concept_assets/b_uswds.png)
+
+### CMS Design System
+
+CMS’s Web & New Media Group built upon the U.S. Web Design System to create a version appropriate to their needs. The CMS Design System is currently in use for HealthCare.gov. That means that the system is already in use with the same population as state E&E systems and expertise currently exists within CMS related to its use.
+
+![Sample screenshots of CMS Design System](/concept_assets/b_cmsds.png)
 
 
 # Exhibit C: A general model for data collection
