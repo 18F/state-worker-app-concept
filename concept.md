@@ -140,6 +140,14 @@ Data should be entered in aggregate for all relevant programs in the most intuit
 
 ![Illustration visualizing the 7 points below](/concept_assets/c_illustrations.png)
 
+1. Structure aggregate data and understand which programs need what data
+2. Identify the services/programs applicants may need
+3. Collect the data needed for all relevant programs at once
+4. State staff review/verify data
+5. Use the collected data to concurrently apply to programs separately
+6. Determine eligibility based on each application
+7. Issue benefits to applicants
+
 # Exhibit D: Eligibility rules as a service
 
 # Exhibit E: State Eligibility & Enrollment App
