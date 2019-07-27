@@ -73,6 +73,8 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 The rules, requirements, and actions people need to take to qualify and receive benefits from public assistance programs are inherently complicated. Improving the experiences people have as they interface with these programs is also a very complex undertaking. The client experience should be thought of as a number of constituent parts that can be addressed separately as part of an incremental improvement strategy.
 
+**Applying to programs should   be easy enough that a parent can apply with one hand on their phone while rocking their baby to sleep.**
+
 ## Design research
 
 Research into the experiences people have before, during, and after applying, receiving, and using benefits helps us understand how we should design the systems they will interact with. This research should be ongoing, but we also need to utilize research that has already been conducted. There has already been quite a bit of thoughtful design research that provides great insight and is available today. While not nearly comprehensive, these reports provide a great jumping-off point.
@@ -127,6 +129,16 @@ CMS’s Web & New Media Group built upon the U.S. Web Design System to create a 
 
 
 # Exhibit C: A general model for data collection
+
+Traditional paper applications for individual programs established the precedent of gathering the data needed to determine program eligibility separate from data needed to determine eligibility for other programs. The move to digitize those applications largely recreated this practice.
+
+Other methods of bridging the distinctions, such as presumed eligibility or data sharing, aim to ease the burden of duplicative re-entry of data.
+
+Yet if we’re working to establish a truly intergrated eligibility experience, where a person or household can apply once and eligibility can be determined for a variety of programs, we need to break data collection and individual program applications.
+
+Data should be entered in aggregate for all relevant programs in the most intuitive way for the applicant ([See Exhibit B: Client experiences](#exhibit-b-client-experiences)) and then used to determine individual programs behind the scenes.
+
+![Illustration visualizing the 7 points below](/concept_assets/c_illustrations.png)
 
 # Exhibit D: Eligibility rules as a service
 
