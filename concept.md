@@ -1,6 +1,6 @@
 # Introduction
 
-Much of the technology that people use to access safety net programs and States use to administer those programs is aging and crumbling, despite significant significant spending and effort to modernize.
+Much of the technology that people use to access safety net programs and States use to administer those programs is aging and crumbling, despite significant spending and effort to modernize.
 
 **Our current approaches to fixing this situation play right into government’s weaknesses.**
 
@@ -55,7 +55,7 @@ The diagram below can be used as a map to explore this piece. The ecosystem desc
 
 **Clients experiences** - Clients apply, submit documents, have visibility into status, notices/notifications, through government and non-government channels - See exhibits:
 > - [Exhibit B: Client experiences](#exhibit-b-client-experiences)
-> - [Exhibit G: Design systems**](#exhibit-g-design-systems)
+> - [Exhibit G: Design systems](#exhibit-g-design-systems)
 > - [Exhibit F: Models for building products](#exhibit-f-models-for-building-products)
 
 **Modern data storage** - Source of truth, data coming in from multiple sources, data going out powering multiple products, commodity databases on cloud infrastructure - See exhibits:
