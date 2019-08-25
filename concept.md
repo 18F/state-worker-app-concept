@@ -1,10 +1,10 @@
 # Introduction
 
-Much of the technology that people use to access safety net programs and States use to administer those programs is aging and crumbling, despite significant significant spending and effort to modernize.
+Much of the technology that people use to access safety net programs and States use to administer those programs is aging and crumbling, despite ssignificant spending and effort to modernize.
 
 **Our current approaches to fixing this situation play right into government’s weaknesses.**
 
-We ask over-stretched, insufficiently technical state staff to modernize massively complex computer systems by adhering to federally-provided checklists and oversight regimes, working with massive vendors through multi-year contracts worth tens or hundreds of thousands of dollars.
+We ask over-stretched, insufficiently technical state staff to modernize massively complex computer systems by adhering to federally-provided checklists and oversight regimes, working with massive vendors through multi-year contracts worth tens or hundreds of millions of dollars.
 
 But states are not well positioned to build software, modernize legacy systems, productively manage vendors, easily comply with oversight, or deliver timely and trustworthy data. Federal agencies are not well positioned to quickly drive change in the market or provide technical oversight that accelerates modernization rather than impedes it.
 
