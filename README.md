@@ -1,8 +1,9 @@
-# In progress
+# State social service worker application concept
 
-This is a public copy of an in-progress concept for how the eligibility systems used in the human services space could be structured. More will be added soon.
+This is a conceptual prototype showing what an empowering state social service worker application could look like.
 
-- [Map](https://github.com/18F/eligibility-system-concept/blob/master/map_20190324.pdf)
+- [**View the prototype**](https://gsa.invisionapp.com/share/32QAEWUR9HG#/343810594_A_-_Entry_-_Login)
 - [Sketch file](https://github.com/18F/eligibility-system-concept/blob/master/eligibility-system-concept.sketch)
+- InVision files: [HTML](/invision-html-download) | [PDF](invision-pdf-download.pdf)
 
 See [License.md](https://github.com/18F/eligibility-system-concept/tree/master/LICENSE.md)
